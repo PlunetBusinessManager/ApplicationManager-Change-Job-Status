@@ -1,0 +1,17 @@
+<configuration>
+    <typeName>[resourceType]</typeName>
+    <actionTypes>
+        <actionType>HQ Part-time</actionType>
+        <actionType>HQ PSD FTE</actionType>
+        <actionType>Area Employee</actionType>
+        <actionType>Volunteer</actionType>
+    </actionTypes>
+    <actionStatus>
+        <jobStatus>2</jobStatus>
+        <jobStatus>3</jobStatus>
+    </actionStatus>
+    <changeStatus>11</changeStatus>
+    <username></username>
+    <password></password>
+    <base_url>https://example.plunet.com/</base_url>
+</configuration>
