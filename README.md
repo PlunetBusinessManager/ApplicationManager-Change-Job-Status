@@ -54,6 +54,7 @@ py. Application MUST BE converted into .exe with PYInstaller
 - Executable and configuration file shall be stored on the server where Plunet runs.
 
 ## Plunet Job Configuration
+[config](https://github.com/PlunetBusinessManager/ApplicationManager---Change-Job-Status/blob/main/config_pic.png)
 
 ### Parameters
 
